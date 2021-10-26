@@ -28,6 +28,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Diagnosis of breast cancer using a logistic classifier](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Log_reg_project.ipynb)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
@@ -40,6 +47,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/zamanali23/zaman-ali.github.io/blob/master/KNN_project.ipynb)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
@@ -53,6 +67,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Recognising Handwritten numbers using Neural Networks](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Handwriting_Recognition_using_CNN_project.ipynb)
 
 <img src="images/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset-1024x768.png?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Learned how to augment images for classfication 
 - Implemented a CNN model 
@@ -64,6 +85,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Bagging_Boosting_Project.ipynb)
 
 <img src="images/click-fraud1.jpg?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Explored the dataset for anomalies and missing values 
 - By using Pandas derive new features
@@ -82,6 +110,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Amazon Fine Food Reviews Analysis](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Amazon_Fine_Food_Reviews_Analysis.ipynb)
 
 <img src="images/amazon.png?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Applied Text Preprocessing: Stemming, stop-word removal and Lemmatization
 - Trained Multinomial Naive Bayes Model
@@ -94,6 +129,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Principle Component Analysis Using Housing Dataset](https://github.com/zamanali23/zaman-ali.github.io/blob/master/pca_project.ipynb)
 
 <img src="images/pca.jpg?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Predicted the housing price
 - Isolated the important features using correlation analysis
@@ -109,6 +151,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [K Means model for State authorities/Policy makers](https://github.com/zamanali23/zaman-ali.github.io/blob/master/K_Means_Project.ipynb)
 
 <img src="images/kmean.jpg?raw=true"/>
+**Skills Used:** Python, Pandas, SKLearn
+
+
+**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+
+
+ **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
 
 - Fitted the data to clustering model
 - Calculated the number of clusters for the data

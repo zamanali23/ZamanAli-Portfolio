@@ -52,12 +52,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills Used:** Python, Pandas, SKLearn
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:**  Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 
 
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
+ **Quantifiable Results:** - The accuracy of the KNN with K = 15 is 85.48% The accuracy of the NB is 82.26%
+ 
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 - Tuned hyperparameter best score was 0.8586

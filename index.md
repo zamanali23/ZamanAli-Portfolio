@@ -9,7 +9,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
 
-<b>Skills Used:</b> Python, Numpy, Pandas, SKLearn,Seabourn,Logistic Regression,
+<b>Skills Used:</b> Python, Numpy, Pandas, SKLearn,Seabourn,Linear Regression
 
 **Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
 
@@ -28,19 +28,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn
+**Skills Used:** Python, Pandas, SKLearn, Seabourn, Logistic Regression
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:** Used logistic regression to identify a tumour as malignant or benign based on various attributes
 
 
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
+ **Quantifiable Results:** Calculated Random forest,Adaboost Ensemble model,Bagging classifier model and Gradient Boost classifier model accuracy which was 1.0 in all the models
+ 
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
-- Calculated Random forest,Adaboost Ensemble model,Bagging classifier model and Gradient Boost classifier model accuracy which was 1.0 in all the models
 
 ***
 
@@ -55,7 +53,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:**  Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 
 
- **Quantifiable Results:** - The accuracy of the KNN with K = 15 is 85.48% The accuracy of the NB is 82.26%
+ **Quantifiable Results:** The accuracy of the KNN with K = 15 is 85.48% The accuracy of the NB is 82.26%
  
 
 
@@ -75,12 +73,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills Used:** Python, Pandas, SKLearn
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:** Learned how to augment images for classfication 
 
 
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
+ **Quantifiable Results:** Predicted Image from our Final model which was 7
 
-- Learned how to augment images for classfication 
 - Implemented a CNN model 
 - Created a pipeline to improve it 
 - Predicted Image from our Final model which was 7
@@ -95,11 +92,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills Used:** Python, Pandas, SKLearn
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:** Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not.
 
 
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
-
+ **Quantifiable Results:** For XGB Classifier auc the score was 0.8941. For baggingClassifier Classifier the auc score was 0.871
 - Explored the dataset for anomalies and missing values 
 - By using Pandas derive new features
 - Applied XGBoostClassifier with default parameters
@@ -107,8 +103,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Computed feature importance score and name the top 5 features/columns
 - Applyied BaggingClassifier with base_estimator LogisticRegression and compute AUC/ROC score.
 - On the basis of AUC/ROC score compared BaggingClassifier and XGBoostClassifier 
-- For XGB Classifier auc the score was 0.8941
-- For baggingClassifier Classifier the auc score was 0.871
+
 
 ***
 
@@ -122,10 +117,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills Used:** Python, Pandas, SKLearn
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:** Amazon Fine Food Reviews Analysis.
 
 
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
+ **Quantifiable Results:** Prediction using BOW: +ve review. Prediction using TF-Idf: -ve review.
 
 - Applied Text Preprocessing: Stemming, stop-word removal and Lemmatization
 - Trained Multinomial Naive Bayes Model
@@ -143,10 +138,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills Used:** Python, Pandas, SKLearn
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:** Principle Component Analysis Using Housing Dataset
 
-
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
+ **Quantifiable Results:**  Mean Absolute Error of linear regression: 23782.177. Mean Square Error of linear regression: 1424296795.105. Root_mean_Squared Score of linear regression: 0.7083
 
 - Predicted the housing price
 - Isolated the important features using correlation analysis
@@ -167,10 +161,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills Used:** Python, Pandas, SKLearn
 
 
-**Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
+**Project Objective:** K Means model for State authorities/Policy makers.
 
-
- **Quantifiable Results:** We could predict the Bike rentals resulting in 95% acccuracy and 135% increase in Bike utilization.
+ **Quantifiable Results:** Calculated the silhouette score of the model which was 0.5259.
 
 - Fitted the data to clustering model
 - Calculated the number of clusters for the data

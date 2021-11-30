@@ -9,7 +9,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
 
-<b>Skills Used:</b> Python, Numpy, Pandas, SKLearn,Seabourn,Linear Regression
+<b>Skills Used:</b> Python, Numpy, Pandas, SKLearn,Seaborn,Linear Regression
 
 **Project Objective:** By predicting the bike rental demand in advance from weather forcast, Bike rental company position the bike according to customers' demand resulting in increase in the bike utilization.
 
@@ -28,7 +28,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn, Seabourn, Logistic Regression
+**Skills Used:** Python, Pandas, SKLearn, Seaborn, Logistic Regression
 
 
 **Project Objective:** Used logistic regression to identify a tumour as malignant or benign based on various attributes
@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn
+**Skills Used:** Python, Pandas, SKLearn, K Nearest Neighbours algorithm 
 
 
 **Project Objective:**  Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
@@ -89,7 +89,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/click-fraud1.jpg?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn
+**Skills Used:** Python, Pandas, SKLearn, Bagging Boosting Models
 
 
 **Project Objective:** Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not.
@@ -114,7 +114,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/amazon.png?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn
+**Skills Used:** Python, Pandas, SKLearn, Naive Bayes Model
 
 
 **Project Objective:** Amazon Fine Food Reviews Analysis.
@@ -135,7 +135,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/pca.jpg?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn
+**Skills Used:** Python, Pandas, SKLearn, Principle Component Analysis
 
 
 **Project Objective:** Principle Component Analysis Using Housing Dataset
@@ -158,17 +158,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/kmean.jpg?raw=true"/>
 
 
-**Skills Used:** Python, Pandas, SKLearn
+**Skills Used:** Python, Pandas, SKLearn, K-Means Clustering
 
 
 **Project Objective:** K Means model for State authorities/Policy makers.
 
- **Quantifiable Results:** Calculated the silhouette score of the model which was 0.5259.
+ **Quantifiable Results:** Calculated the model accuracy which was 0.5259.
 
 - Fitted the data to clustering model
 - Calculated the number of clusters for the data
 - Fitted the model with K-Means and Hierarchical clustering
 - Compared the resluts for both methods
-- Calculated the silhouette score of the model which was 0.5259
+- Calculated the accuracy of the model which was 0.5259
 
 ***

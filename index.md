@@ -130,7 +130,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Prediction using TF-Idf: -ve review
 
 ***
-[Principle Component Analysis Using Housing Dataset](https://github.com/zamanali23/zaman-ali.github.io/blob/master/pca_project.ipynb)
+[Principle Component Analysis Using Housing Dataset](https://github.com/zamanali23/unsupervised-ML-Project/blob/main/pca_project.ipynb)
 
 <img src="images/pca.jpg?raw=true"/>
 
@@ -153,7 +153,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[K Means model for State authorities/Policy makers](https://github.com/zamanali23/zaman-ali.github.io/blob/master/K_Means_Project.ipynb)
+[K Means model for State authorities/Policy makers](https://github.com/zamanali23/K-Means-Clustring-Project/blob/main/K_Means_Project.ipynb)
 
 <img src="images/kmean.jpg?raw=true"/>
 

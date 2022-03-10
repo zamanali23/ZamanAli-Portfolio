@@ -23,7 +23,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Log_reg_project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/zamanali23/Logistic-Regression/blob/main/Log_reg_project.ipynb)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 

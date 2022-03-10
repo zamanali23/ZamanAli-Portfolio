@@ -65,7 +65,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Recognising Handwritten numbers using Neural Networks](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Handwriting_Recognition_using_CNN_project.ipynb)
+[Recognising Handwritten numbers using Neural Networks](https://github.com/zamanali23/Neural-Network-Project-MNIST-Data/blob/main/Handwriting_Recognition_using_CNN_project.ipynb)
 
 <img src="images/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset-1024x768.png?raw=true"/>
 
@@ -109,7 +109,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 
 
-[Amazon Fine Food Reviews Analysis](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Amazon_Fine_Food_Reviews_Analysis.ipynb)
+[Amazon Fine Food Reviews Analysis](https://github.com/zamanali23/Amazon-Product-Review-NLP-/blob/main/Amazon_Fine_Food_Reviews_Analysis.ipynb)
 
 <img src="images/amazon.png?raw=true"/>
 

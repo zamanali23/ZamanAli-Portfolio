@@ -84,7 +84,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not](https://github.com/zamanali23/zaman-ali.github.io/blob/master/Bagging_Boosting_Project.ipynb)
+[Deployed Bagging and Boosting models to classify app-based transactions as fraudlent or not](https://github.com/zamanali23/Bagging-and-Boosting-Project/blob/main/Bagging_Boosting_Project.ipynb)
 
 <img src="images/click-fraud1.jpg?raw=true"/>
 
